@@ -40,7 +40,7 @@ jobs:
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'Group-18-project/frontend/dist'
+          path: 'frontend/dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
