@@ -1,0 +1,97 @@
+.glass-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background: rgba(10, 10, 12, 0.5);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.brand-logo {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  text-decoration: none;
+  letter-spacing: 0.05em;
+}
+
+.brand-logo .highlight {
+  color: var(--primary-red);
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.nav-item {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-item:hover {
+  color: var(--primary-yellow);
+}
+
+.calc-link {
+  color: var(--primary-yellow);
+  border-bottom: 1px dashed var(--primary-yellow);
+}
+
+.nav-actions {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.login-link {
+  color: var(--text-primary);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: color 0.3s ease;
+}
+
+.login-link:hover {
+  color: var(--primary-red);
+}
+
+.signup-btn {
+  background: transparent;
+  border: 2px solid var(--primary-red);
+  color: var(--text-primary);
+  padding: 8px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+}
+
+.signup-btn:hover {
+  background: var(--primary-red);
+  color: white;
+  box-shadow: 0 4px 15px rgba(229, 36, 59, 0.4);
+}
+
+.brand-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.brand-logo-img {
+  height: 35px;
+  width: auto;
+  border-radius: 4px;
+}

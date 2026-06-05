@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg-color: #0a0a0c;
+  --card-bg: rgba(20, 20, 25, 0.7);
+  --text-primary: #ffffff;
+  --text-secondary: #9CA3AF;
+  --primary-red: #E5243B;
+  --primary-yellow: #FFC400;
+  --border-color: rgba(255, 255, 255, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+body, html, #root {
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
+  z-index: 0;
+}
+
+/* Glowing Neon Background Circles */
+#root::before, #root::after {
+  content: "";
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  z-index: -1;
+  filter: blur(150px);
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+#root::before {
+  top: -10%;
+  left: -10%;
+  background: var(--primary-red);
+}
+
+#root::after {
+  bottom: -10%;
+  right: -10%;
+  background: var(--primary-yellow);
+}
+
+/* Custom Modern Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-red);
+}

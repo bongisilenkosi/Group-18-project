@@ -1,0 +1,269 @@
+[
+  {
+    "topic": "about_belgium_campus",
+    "keywords": [
+      "what is belgium campus",
+      "about belgium campus",
+      "who are you",
+      "tell me about the college",
+      "what kind of institution",
+      "itversity",
+      "history",
+      "when was belgium campus founded",
+      "accredited",
+      "registered"
+    ],
+    "answer": "Belgium Campus iTversity is South Africa's first dedicated ITversity, founded in 1999. It is registered with the Department of Higher Education and Training (DHET) and accredited by the CHE. Over 8% of South Africa's ICT graduates come from Belgium Campus. The institution is known for small class sizes, hands-on learning, strong industry links, and a 100% graduate employment rate. It has campuses in Pretoria, Stellenbosch, and Kempton Park."
+  },
+  {
+    "topic": "courses",
+    "keywords": [
+      "courses", "programs", "study", "diploma", "diplomas",
+      "what do you offer", "what does belgium campus offer",
+      "offer", "qualifications", "study options", "it courses", "what can i study"
+    ],
+    "answer": "Belgium Campus offers the following qualifications: (1) Bachelor of Computing – NQF 8, 4 years, specialisations in Data Science and Software Engineering. (2) Bachelor of Information Technology – NQF 7, 3 years, Software Development. (3) Part-Time Bachelor of IT – NQF 7, 5 years Saturday classes, Software Development. (4) Diploma in Information Technology – NQF 6, 3 years, Infrastructure or Software Development. (5) Diploma for Deaf Students – NQF 6, 4 years, Software Development. Hybrid and online learning is also available."
+  },
+  {
+    "topic": "bachelor_computing",
+    "keywords": [
+      "bachelor of computing", "bcomp", "data science", "software engineering",
+      "computing degree", "nqf 8", "highest qualification", "saqa 62689",
+      "506 credits", "workplace training bcomp"
+    ],
+    "answer": "The Bachelor of Computing (BComp) is Belgium Campus's highest qualification. Duration: 3 years academic + 1 year workplace training. NQF Level 8, 506 credits, SAQA ID: 62689. Specialisations: Data Science or Software Engineering. Entry requirements: NSC endorsed for a Degree, 50% or more for English, and 70% or more for pure mathematics. Available at Pretoria, Kempton Park, and Stellenbosch campuses. 2027 fees: R5,000 registration (first-time), R128,000/year full payment. Monthly instalments: 10-month R13,454 | 11-month R12,286 | 12-month R11,313."
+  },
+  {
+    "topic": "bachelor_it",
+    "keywords": [
+      "bachelor of information technology", "bit", "it degree",
+      "software development degree", "nqf 7", "3 year degree",
+      "weekday classes", "saqa 94121", "360 credits bit"
+    ],
+    "answer": "The Bachelor of Information Technology (BIT) is a 3-year full-time weekday programme. NQF Level 7, 360 credits, SAQA ID: 94121. Specialisation: Software Development. Entry requirements: NSC endorsed for a Degree, 50% or more for English, and 50% or more for pure mathematics. Available at Pretoria and Kempton Park campuses. 2027 fees: R5,000 registration (first-time), R114,000/year full payment. Monthly instalments: 10-month R11,983 | 11-month R10,942 | 12-month R10,076."
+  },
+  {
+    "topic": "part_time_bit",
+    "keywords": [
+      "part time bit", "part-time bachelor", "weekend classes", "saturday classes",
+      "working student", "study while working", "5 year degree", "saturday degree",
+      "8am to 5pm saturday", "prior learning rpl part time"
+    ],
+    "answer": "The Part-Time Bachelor of IT runs on Saturdays from 8am to 5pm and takes 5 years to complete. NQF Level 7, 360 credits, SAQA ID: 94121. Specialisation: Software Development. Only available at the Pretoria campus. Applicants with prior IT qualifications or work experience can apply for Recognition of Prior Learning (RPL) to complete the course in a shorter period. 2027 fees: R5,000 registration (first-time), R70,000/year full payment. Monthly instalments: 10-month R7,358 | 11-month R6,719 | 12-month R6,187. Ideal for working professionals."
+  },
+  {
+    "topic": "diploma_it",
+    "keywords": [
+      "diploma in it", "diploma information technology", "diploma", "it diploma",
+      "infrastructure", "software development diploma", "nqf 6", "saqa 120097",
+      "2 year diploma", "shorter programme", "360 credits diploma"
+    ],
+    "answer": "The Diploma in Information Technology takes 2.5 years academic + 6 months workplace training. NQF Level 6, 360 credits, SAQA ID: 120097. Specialisations: Infrastructure or Software Development. Entry requirement: NSC endorsed for a Diploma (no maths minimum). Available at Pretoria, Kempton Park, and Stellenbosch. 2027 fees: R5,000 registration (first-time), R89,000/year (Years 1-2) full payment. Monthly instalments: 10-month R9,355 | 11-month R8,543 | 12-month R7,866. Year 3 theory (6 months): R60,000. Year 3 internship (6 months): R6,000."
+  },
+  {
+    "topic": "deaf_diploma",
+    "keywords": [
+      "deaf diploma", "diploma for deaf students", "hearing impaired",
+      "sign language", "special needs", "disability", "deaf student",
+      "audiogram", "hard of hearing", "aptitude test deaf"
+    ],
+    "answer": "The Diploma for Deaf Students takes 3.5 years academic + 6 months workplace training. NQF Level 6, 360 credits, SAQA ID: 120097. Specialisation: Software Development. Only available at the Pretoria campus. Special entry requirements: NSC endorsed for a Diploma, 50% or more for the Belgium Campus Aptitude Test, an audiogram no older than 6 months, and a South African ID. 2027 fees: R5,000 registration (first-time), R174,000/year (Years 1-3) full payment. Monthly instalments: 10-month R18,289 | 11-month R16,701 | 12-month R15,378. Full South African Sign Language (SASL) support is provided."
+  },
+  {
+    "topic": "bcomp_vs_bit",
+    "keywords": [
+      "difference between bit and bcomp", "bcomp vs bit", "bit or bcomp",
+      "which is better bit or bcomp", "compare bit bcomp", "bit versus bcomp"
+    ],
+    "answer": "BIT and BComp are both IT degrees but differ in level, duration, cost, and focus. BIT is NQF Level 7, takes 3 years (weekday), costs R114,000/year, and focuses only on Software Development. BComp is NQF Level 8, takes 4 years including workplace training, costs R128,000/year, and offers two specialisations: Data Science or Software Engineering. BComp is the higher qualification and requires 70% maths for entry vs 50% for BIT. If you are interested in data science or want the highest qualification Belgium Campus offers, choose BComp. If you want to finish faster and focus on software development, BIT is a strong choice."
+  },
+  {
+    "topic": "diploma_vs_degree",
+    "keywords": [
+      "diploma vs degree", "should i do diploma or degree",
+      "difference between diploma and degree", "diploma or bit",
+      "which is better diploma or degree"
+    ],
+    "answer": "The Diploma in IT is NQF Level 6, takes 3 years total, costs R89,000/year, and only requires an NSC endorsed for a Diploma with no maths minimum. The BIT degree is NQF Level 7, costs R114,000/year, and requires 50% in pure maths. The BComp is NQF Level 8, costs R128,000/year, and requires 70% in maths. A degree opens more senior career opportunities. If your maths is below 50%, start with the Diploma or consider the Mathematics Bridging Course to upgrade to a degree."
+  },
+  {
+    "topic": "math_bridging",
+    "keywords": [
+      "math bridging", "mathematics course", "bridging course",
+      "upgrade maths", "maths too low", "failed maths", "improve maths",
+      "maths bridging programme", "math requirement"
+    ],
+    "answer": "The Mathematics Bridging Course is offered every January before the first semester. It is designed for students who enrolled for a diploma but want to upgrade to a degree. You need 50% in pure maths for BIT entry and 70% for BComp. If you do not achieve the required mark after the bridging course, degree entry will not be granted. This is your alternative if you did not take pure mathematics in matric or scored below the minimum."
+  },
+  {
+    "topic": "requirements",
+    "keywords": [
+      "requirements", "admission", "entry requirements", "matric",
+      "what do i need", "eligibility", "can i apply", "nsc",
+      "matric results", "minimum requirements", "what marks do i need"
+    ],
+    "answer": "Minimum requirement for all programmes is a National Senior Certificate (NSC) certified by Umalusi, or a foreign qualification converted by SAQA. For the Diploma in IT: NSC endorsed for a Diploma. For Diploma for Deaf Students: NSC endorsed for Diploma + 50% on Aptitude Test + audiogram under 6 months + SA ID. For degree programmes (BIT and BComp): NSC endorsed for a Degree, 50% or more for English, and 50% for BIT or 70% for BComp in pure mathematics. Belgium Campus accepts students of all ages."
+  },
+  {
+    "topic": "international_students",
+    "keywords": [
+      "international student", "foreign student", "study in south africa",
+      "not south african", "foreign qualification", "saqa", "overseas student"
+    ],
+    "answer": "Belgium Campus accepts international students. You will need a SAQA-converted qualification listing English and mathematics as subjects. If English is not listed, you may need to complete an English proficiency test. For maths, a SAQA-converted qualification must list mathematics as a subject. Additional documentation is required during application."
+  },
+  {
+    "topic": "intake_dates",
+    "keywords": [
+      "intake", "when does it start", "semester", "january intake", "may intake",
+      "july intake", "september intake", "when can i apply", "start date",
+      "next intake", "when does college start", "application deadline"
+    ],
+    "answer": "Belgium Campus has four official intake dates per year: January, May, July, and September. Recommended application deadlines: For January intake apply by November of the previous year. For May intake apply by March. For July intake apply by May. For September intake apply by July. Apply as early as possible to secure your spot — spaces are limited. The Mathematics Bridging Course runs every January before the first semester."
+  },
+  {
+    "topic": "apply",
+    "keywords": [
+      "apply", "application", "how to apply", "registration", "enrol",
+      "sign up", "application process", "how do i register",
+      "start application", "documents needed"
+    ],
+    "answer": "To apply to Belgium Campus: visit belgiumcampus.ac.za/applicant-portal and complete the online application form. Required documents: your ID, Matric results, and any relevant academic records. For Deaf Diploma: also submit an audiogram no older than 6 months. For international students: SAQA-converted qualification. Belgium Campus has four intake dates: January, May, July, and September. Apply early to secure your place."
+  },
+  {
+    "topic": "fees_overview",
+    "keywords": [
+      "fee", "fees", "cost", "costs", "price", "tuition",
+      "how much", "how much does it cost", "payment",
+      "study cost", "2027 fees", "registration fee"
+    ],
+    "answer": "2027 tuition fees (full payment per year, before 28 Feb): Diploma in IT Years 1-2 — R89,000 | Diploma Year 3 Theory — R60,000 | Diploma Year 3 Internship — R6,000 | BIT weekday (3yr) — R114,000 | BIT Saturday (5yr) — R70,000 | BComp Years 1-3 — R128,000 | Deaf Diploma Years 1-3 — R174,000. Registration fee for all first-time students: R5,000. Payment plans available over 10, 11, or 12 months. Instalments require an affordability/credit check and signed debit order."
+  },
+  {
+    "topic": "fees_instalment",
+    "keywords": [
+      "instalment", "monthly payment", "payment plan", "pay monthly",
+      "debit order", "how to pay fees", "payment options", "can i pay monthly"
+    ],
+    "answer": "2027 monthly instalment options (10-month plan): Diploma IT Years 1-2: R9,355/month | BIT weekday: R11,983/month | BIT Saturday: R7,358/month | BComp: R13,454/month | Deaf Diploma: R18,289/month. 11 and 12-month plans are available at lower amounts — contact the finance department to request these. Instalments require passing an affordability/credit check and signing a debit order. Students registering after 28 February have 30 days to qualify for the once-off price."
+  },
+  {
+    "topic": "additional_fees",
+    "keywords": [
+      "additional fees", "extra fees", "change of stream", "remark",
+      "cat fee", "rpl fee", "change elective", "change specialisation"
+    ],
+    "answer": "Additional 2027 education fees: CAT (external only) — R2,000 | RPL — R4,500 | Change of Elective (within 2 weeks of orientation) — R750 | Change of Method of Delivery (single module) — R750 | Change of Method of Delivery (2 weeks after orientation) — R3,000 | Change of Stream/Specialisation (2 weeks after orientation) — R750 | Remark of Final Assessment (non-refundable) — R1,000."
+  },
+  {
+    "topic": "uniform_fees",
+    "keywords": [
+      "uniform", "uniform fees", "what to wear", "shirt", "blazer",
+      "jersey", "uniform cost", "uniform price", "college uniform"
+    ],
+    "answer": "Belgium Campus uniform fees: Full Uniform Package (2x short sleeve shirts, 2x long sleeve shirts, tie, jersey, blazer/Hudson Jacket) — R2,000. Individual items: Short sleeve shirt R230 | Long sleeve shirt R240 | Tie R65 | Jersey R300 | Blazer R800 | Hudson Jacket R800 | Hoodie R420 | Softshell Jacket R850 | Cap R100 | Beanie R100 | eSports Jersey R260."
+  },
+  {
+    "topic": "funding_bursaries",
+    "keywords": [
+      "bursary", "funding", "financial aid", "scholarship",
+      "can i get funding", "student loan", "how to pay for studies",
+      "financial assistance", "corporate sponsorship", "merit award",
+      "top achiever award", "bursary fund"
+    ],
+    "answer": "Belgium Campus offers several funding options: (1) Belgium Campus Bursary Fund — financial support for academically deserving students who cannot afford fees. Donations accepted. (2) Merit Based Award — partial funding for students with strong high school results. (3) Top Achiever Award — for learners with the highest grade average in IT, maths, or physical science in Grade 11. (4) Corporate Sponsorships — awarded by industry partners to financially deserving students. Belgium Campus has secured millions of rands in corporate funding. (5) Student Loans — available through ABSA, FNB, Nedbank, Standard Bank, and Capitec. (6) Student Hero partnership — helps students find and apply for study finance."
+  },
+  {
+    "topic": "bursary_criteria",
+    "keywords": [
+      "bursary criteria", "who qualifies for bursary", "bursary requirements",
+      "scholarship criteria", "am i eligible for funding", "bursary eligibility",
+      "bursary for black students", "bursary for women", "bursary disabled"
+    ],
+    "answer": "Bursary criteria at Belgium Campus: Only South African citizens are eligible. Preference is given to females, individuals of colour, and persons with disabilities. Requirements: 50% or more for pure maths or maths literacy, 50% or more for English, a completed scholarship test, and a Matric Certificate endorsed for a diploma or degree. Note: Accommodation is NOT included in bursaries. Corporate sponsorships are available for Diploma, BIT, and BComp programmes."
+  },
+  {
+    "topic": "residence",
+    "keywords": [
+      "accommodation", "hostel", "res", "student housing", "where to stay",
+      "residence", "do you have res", "campus accommodation",
+      "meals included", "cafeteria res", "residence fees"
+    ],
+    "answer": "Belgium Campus offers student residence. The accommodation fee includes three meals a day (breakfast, lunch, dinner) at the campus cafeteria, Monday to Friday, excluding public holidays and student holiday periods. Annual residence registration fee: R4,500. Rooms are allocated on a first-come, first-served basis and can only be secured once the registration fee is paid. Additional residence fees: Student Card Re-issue R250 | Lost Hostel Key R200 | New Lanyard R50 | Change Room Lock R750 | Replace Toilet Seat R800 | Replace Shower Curtain R400 | Laundry (per kg) R33. Meal costs outside the plan: Breakfast R55 | Lunch R65 | Dinner R80 | Monthly meals once-off R3,850. Payment bank: FNB, Account: Belgium Campus, Acc No: 62091935993, Branch Code: 251-045. Email proof of payment to accounts@belgiumcampus.ac.za."
+  },
+  {
+    "topic": "student_life_security",
+    "keywords": [
+      "security", "safe", "is it safe", "campus security",
+      "guard", "panic button", "night security", "pretoria security"
+    ],
+    "answer": "Belgium Campus takes security seriously. Pretoria campus: 24-hour on-site and off-site private security at the main campus and a night guard at Sunbird residence. Guards have panic buttons connected to an off-site patrol team. Kempton Park: House masters are on duty during the day and on call at night, with panic buttons connected to a contracted security company."
+  },
+  {
+    "topic": "student_life_cafeteria",
+    "keywords": [
+      "cafeteria", "food", "meals", "eat", "lunch", "dinner", "breakfast",
+      "tuck shop", "weekend food", "kitchen", "diet", "restaurant"
+    ],
+    "answer": "The Pretoria campus has a cafeteria serving breakfast, lunch, and dinner Monday to Friday. It is closed on weekends, campus holidays, and public holidays. A weekend kitchen is available for students to prepare their own meals. The tuck shop allows students to order meals over weekends. Day students can also order meals and pay via the BC payment app. Meals are nutritionally balanced and dietician-reviewed. Individual meal prices: Breakfast R55 | Lunch R65 | Dinner R80."
+  },
+  {
+    "topic": "student_life_parking",
+    "keywords": [
+      "parking", "car", "drive to campus", "student parking",
+      "where to park", "parking kempton", "parking pretoria"
+    ],
+    "answer": "Pretoria campus: Student parking is available across the street from the main campus. Only visitor vehicles are allowed on the main campus itself — student cars are not permitted on campus grounds. Kempton Park campus: Limited parking is available on the campus grounds."
+  },
+  {
+    "topic": "campuses",
+    "keywords": [
+      "where", "location", "campus", "pretoria", "kempton park",
+      "stellenbosch", "address", "where is belgium campus",
+      "which campuses", "campus locations"
+    ],
+    "answer": "Belgium Campus has three campuses: Pretoria (main campus at 138 6th Ave, Heatherdale), Kempton Park, and Stellenbosch. Pretoria and Kempton Park offer BIT, BComp, and Diploma programmes. Stellenbosch offers BComp and Diploma in IT. The Part-Time BIT and Deaf Diploma are only available at the Pretoria campus. Hybrid online learning is available from anywhere in the world."
+  },
+  {
+    "topic": "online_study",
+    "keywords": [
+      "online", "study online", "hybrid", "distance learning",
+      "remote study", "study from home", "study abroad", "online learning"
+    ],
+    "answer": "Belgium Campus offers hybrid learning, allowing students to study from anywhere in the world on any device. You still receive structured academic support and full interaction — not passive viewing. This makes Belgium Campus accessible even if you are not near one of the three campuses."
+  },
+  {
+    "topic": "careers",
+    "keywords": [
+      "career", "jobs", "what job can i get", "employment",
+      "graduate employment", "career possibilities",
+      "what can i do with this degree", "job opportunities", "it careers"
+    ],
+    "answer": "Belgium Campus has a 100% graduate employment rate. IT graduates can pursue careers in software development, data science, network infrastructure, cybersecurity, systems analysis, and IT management. Belgium Campus has strong industry links and corporate partners who sponsor and recruit students directly from campus."
+  },
+  {
+    "topic": "contact",
+    "keywords": [
+      "contact", "phone", "email", "call", "help", "support",
+      "talk to someone", "admissions contact", "get in touch", "whatsapp"
+    ],
+    "answer": "Contact Belgium Campus iTversity: Phone: 010 593 5368 | Email: info@belgiumcampus.ac.za | Accounts/fees: accounts@belgiumcampus.ac.za | Website: belgiumcampus.ac.za. Campuses: Pretoria (138 6th Ave, Heatherdale), Kempton Park, and Stellenbosch. WhatsApp is also available via the website."
+  },
+  {
+    "topic": "referral",
+    "keywords": [
+      "referral", "refer a friend", "reward", "r750",
+      "refer someone", "referral bonus"
+    ],
+    "answer": "Belgium Campus rewards referrals with R750 for every new student you refer. You must notify Belgium Campus before the referred person starts their application by emailing your details (name, surname, ID number) and the referred person's details to info@belgiumcampus.ac.za. The reward is paid once the referred student pays the full registration fee."
+  },
+  {
+    "topic": "rpl",
+    "keywords": [
+      "rpl", "recognition of prior learning", "work experience",
+      "prior qualification", "shorten degree", "transfer credits",
+      "credit transfer", "previous studies"
+    ],
+    "answer": "Belgium Campus offers Recognition of Prior Learning (RPL). This is relevant especially for the Part-Time BIT — applicants with prior IT qualifications or relevant work experience can apply for RPL to complete the programme in a shorter period than the standard 5 years. RPL fee: R4,500. Contact admissions for more details."
+  }
+]

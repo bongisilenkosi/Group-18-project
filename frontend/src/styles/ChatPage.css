@@ -1,0 +1,83 @@
+.header-section {
+  position: relative;
+  background-color: transparent;
+  color: #FFFFFF;
+  padding: 80px 25px 60px 25px;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.header-section h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+  position: relative;
+  z-index: 1;
+}
+
+.header-section .header-sub-title, 
+.header-section p {
+  position: relative;
+  z-index: 1;
+  color: #9CA3AF;
+}
+
+.chat-window {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  background-color: transparent;
+}
+
+.input-area {
+  padding: 15px 20px;
+  background: rgba(20, 20, 25, 0.8);
+  backdrop-filter: blur(15px);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.input-area input {
+  flex: 1;
+  padding: 14px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  font-size: 0.95rem;
+  outline: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #F9FAFB;
+  transition: all 0.3s ease;
+}
+
+.input-area input:focus {
+  border-color: #FFC400;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 15px rgba(255, 196, 0, 0.15);
+}
+
+.send-btn {
+  background-color: #E5243B;
+  color: white;
+  border: none;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.send-btn:hover {
+  background-color: #FFC400;
+  color: #0a0a0c;
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 5px 15px rgba(255, 196, 0, 0.3);
+}

@@ -1,0 +1,98 @@
+.contact-page {
+  min-height: calc(100vh - 80px);
+  background-color: transparent;
+  font-family: system-ui, -apple-system, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  position: relative;
+}
+
+.contact-card {
+  background: rgba(20, 20, 25, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 48px 40px;
+  max-width: 480px;
+  width: 100%;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(20px);
+}
+
+.contact-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #FFFFFF;
+  margin-bottom: 32px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 16px;
+  margin-top: 0;
+  letter-spacing: -0.5px;
+}
+
+.contact-list {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.contact-item {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.label-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contact-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #9CA3AF;
+}
+
+.contact-value {
+  font-size: 1.1rem;
+  color: #F9FAFB;
+  line-height: 1.5;
+}
+
+.contact-link {
+  font-size: 1.1rem;
+  color: #FFC400;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.contact-link:hover {
+  color: #FFFFFF;
+}
+
+.back-link-btn {
+  display: inline-flex;
+  align-items: center;
+  color: #0a0a0c;
+  background-color: #FFFFFF;
+  border: none;
+  padding: 14px 28px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  margin-top: 48px;
+  cursor: pointer;
+}
+
+.back-link-btn:hover {
+  background-color: #FFC400;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(255, 196, 0, 0.3);
+}
